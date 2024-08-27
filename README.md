@@ -16,6 +16,7 @@ The goal of this project is to dissect and develop a multifaceted printing setup
 
 <summary>Project Components</summary>
 
+
 - Simulation Platform
 - Physical Lab Setup
 - 	Data Collection for Process Parameters
