@@ -12,13 +12,18 @@
 
 **Project Components:**
 
+<details>
+
+<summary>**Project Components**</summary>
+
 1. Simulation Platform
 2. Physical Lab Setup
-
 2.1 Data Collection for Process Parameters
-
 2.2 Data Collection for Print Quality Assessment
 3. Material and Print Quality Analysis in Real-Time
 4. Controller Development
+ 
+</details>
+
 
 
